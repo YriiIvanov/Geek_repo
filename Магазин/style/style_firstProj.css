@@ -1,0 +1,41 @@
+body {
+	background:#f8f8f8;
+}
+
+.menu li{
+
+ font-style: italic;
+ font-size: 20px;
+ list-style-type: none;
+}
+
+.menu li a{
+color:#8B00FF;
+}
+
+h3{
+background: #eaeaea;
+font-size: 18px;
+font-weight:400;
+color: black; 
+}
+
+.product{
+	color:  #707070;
+	font-size: 14px;
+	font-style: italic;
+	line-height:16px; 
+}
+.desc li{
+	color: #484343;
+	font-size: 16px;
+	font-weight: 400;
+	line-height:24px;
+    text-align: left;
+}
+.descTwo li{
+    font-style: arial;
+	color: black;
+	list-style-type: none;
+	list-style-image: url("images/a277.png");
+}
